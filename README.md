@@ -28,7 +28,7 @@ Here are some of the commands that Alexa understands:
 If Alexa doesn't understand your command, it will ask you to repeat it.
 
 Credits
-This program was created by [Your Name Here] as a learning project. It uses several open-source libraries, including:
+This program was created by KARI DRUVA TARAK as a learning project. It uses several open-source libraries, including:
 
 speech_recognition
 pyttsx3
